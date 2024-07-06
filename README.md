@@ -1,8 +1,4 @@
-### Hola, soy Mario Brandon Muro Ramos 👋
-
-### 🌟 Sobre mí
-
-Soy un desarrollador de **Dart & Flutter**, enfocado en la creación de aplicaciones móviles multiplataforma.
+### Hola, soy Brandon Muro 👋
 
 ### 💼 Habilidades técnicas
 
