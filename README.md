@@ -49,7 +49,7 @@ Soy un desarrollador apasionado por la creación de soluciones innovadoras. Me e
       <h3 align="center">ChisteIA</h3>
       <div align="center">
         <a href="https://chisteia.vercel.app/" target="_blank">
-          <img src="https://chisteia.vercel.app/logo.jpg" width="300px" height="300px" alt="ChisteIA">
+          <img src="https://chisteia.vercel.app/logo_github.jpg" width="400px" height="120px" alt="ChisteIA">
         </a>
         <br><br>
         <p>
