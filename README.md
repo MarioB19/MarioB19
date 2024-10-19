@@ -2,8 +2,8 @@
 
 ### 💼 Habilidades técnicas
 
-- **Aplicaciones Móviles**: Dart | Flutter
-- **Desarrollo Web**: HTML | CSS | JavaScript | React | Next.js
+- **Aplicaciones Móviles**: Flutter
+- **Desarrollo Web**: Next.js
 - **Otros Lenguajes**: C# | Python | Java 
 
 
