@@ -118,8 +118,4 @@ Soy un desarrollador apasionado por la creación de soluciones innovadoras. Me e
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MarioB19&label=Visitas+al+Perfil&color=brightgreen&style=flat" alt="Contador de visitas">
-</p>
-
 <h3 align="center">¡Gracias por visitar mi perfil! 😊</h3>
