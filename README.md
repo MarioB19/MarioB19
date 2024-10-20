@@ -45,7 +45,25 @@ Soy un desarrollador apasionado por la creación de soluciones innovadoras. Me e
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <h3 align="center">Trescursivo</h3>
+      <div align="center">
+        <a href="https://trescursivo.vercel.app/" target="_blank">
+          <img src="https://trescursivo.vercel.app/logo_insta.jpg" width="400px" alt="Trescursivo">
+        </a>
+        <br><br>
+        <p>
+          <a href="https://github.com/MarioB19/trescursivo" target="_blank">
+            <img src="https://img.shields.io/badge/Código-20232A?style=for-the-badge&logo=github&logoColor=61DAFB">
+          </a>
+          <a href="https://trescursivo.vercel.app/" target="_blank">
+            <img src="https://img.shields.io/badge/URL_del_Proyecto-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white">
+          </a>
+        </p>
+        <p><strong>Next.js, Framer Motion, Shadcn</strong> - Trescursivo es una aplicación web que permite interacturar con el clasico Tic-Tac-Toe, agregando la particularidad que un Tic-Tac-Toe recursivo,</p>
+      </div>
+    </td>
+    <td width="33%" valign="top">
       <h3 align="center">ChisteIA</h3>
       <div align="center">
         <a href="https://chisteia.vercel.app/" target="_blank">
@@ -63,7 +81,7 @@ Soy un desarrollador apasionado por la creación de soluciones innovadoras. Me e
         <p><strong>Next.js, Shadcn, Firebase</strong> - ChisteIA es un generador de chistes que utiliza la API de ChatGPT, desarrollado con Next.js, componentes de Shadcn, y emplea Firebase como Backend as a Service (BaaS).</p>
       </div>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3 align="center">Página Web Informativa VoluntRED</h3>
       <div align="center">
         <a href="https://www.voluntred.com" target="_blank">
@@ -82,7 +100,7 @@ Soy un desarrollador apasionado por la creación de soluciones innovadoras. Me e
       </div>
     </td>
   </tr>
-</table
+</table>
 
 ## 🎯 Objetivos para 2024
 
